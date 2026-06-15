@@ -45,7 +45,10 @@ To repeat the experiment with another language, replace the Italian data loaded 
 
 ## Running in Colab
 
-The notebooks in this lab are intended to be used mainly via [Google Colab](https://colab.research.google.com/). To access the Colab environment, you can simply open the notebooks here on GitHub and click on the [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]().
+The notebooks in this lab are intended to be used mainly via [Google Colab](https://colab.research.google.com/). You can open them directly here:
+
+- [Notebook 01 - Prompting and Steering Vectors](https://colab.research.google.com/github/leobertolazzi/mech-interp-lab-lcl26/blob/main/01_prompting_and_steering_vectors.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobertolazzi/mech-interp-lab-lcl26/blob/main/01_prompting_and_steering_vectors.ipynb)
+- [Notebook 02 - Sparse Autoencoders](https://colab.research.google.com/github/leobertolazzi/mech-interp-lab-lcl26/blob/main/02_sparse_autoencoders.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobertolazzi/mech-interp-lab-lcl26/blob/main/02_sparse_autoencoders.ipynb)
 
 Before starting, set a GPU runtime:
 
